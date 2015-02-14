@@ -50,6 +50,7 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="MWE.fs" />
     <Compile Include="Lemma.fs" />
+    <Compile Include="NE.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>

@@ -31,6 +31,7 @@ let cont (lines: string[]) =
             mwe <- HashSet()
             mwe.Add id |> ignore
         else if item.StartsWith "I-" then mwe.Add id |> ignore
+    if mwe.Count > 0 then mwe |> mwes.Add
     mwes.ToArray()
 
 /// discontinuous MWE
@@ -66,7 +67,7 @@ let run () =
     let conflicts = ResizeArray()
     for i = 0 to data.Length - 1 do
         if isOverlap data.[i] then
-            String.Join("\n", data.[i]) |> conflicts.Add
+            String.Join("\n", data.[i]) + "\n" |> conflicts.Add
 
     //for id in conflicts do id |> Console.WriteLine
-    File.WriteAllLines("out", conflicts)
+    File.WriteAllLines("conflict.conll", conflicts)

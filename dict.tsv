@@ -1,0 +1,242 @@
+0	CD	0	
+1	CD	1	
+2	CD	2	
+3	CD	3	
+4	CD	4	
+5	CD	5	
+6	CD	6	
+7	CD	7	
+8	CD	8	
+9	CD	9	
+billion	CD	10^9	
+billion	CD	10^12	
+eight	CD	8	
+eighteen	CD	18	
+eighty	CD	80	
+eleven	CD	11	
+fifteen	CD	15	
+fifty	CD	50	
+five	CD	5	
+forty	CD	40	
+four	CD	4	
+fourteen	CD	14	
+hundred	CD	100	
+I	CD	I	
+II	CD	II	
+III	CD	III	
+IV	CD	IV	
+V	CD	V	
+IX	CD	IX	
+XIX	CD	XIX	
+XXIX	CD	XXIX	
+million	CD	10^6	
+nine	CD	9	
+nineteen	CD	19	
+ninety	CD	90	
+one	CD	1	
+seven	CD	7	
+seventeen	CD	17	
+seventy	CD	70	
+six	CD	6	
+sixteen	CD	16	
+sixty	CD	60	
+ten	CD	10	
+thirteen	CD	13	
+thirty	CD	30	
+thousand	CD	1000	
+three	CD	3	
+trillion	CD	10^12	
+trillion	CD	10^18	
+twelve	CD	12	
+twenty	CD	20	
+two	CD	2	
+zero	CD	0	
+the	DT	the	
+a	DT	a	
+this	DT	this	
+an	DT	a	
+no	DT	no	
+all	DT	all	
+that	DT	that	
+some	DT	some	
+any	DT	any	
+those	DT	"that, num=pl"	
+every	DT	every	
+each	DT	each	
+another	DT	another	
+both	DT	both	
+these	DT	"this, num=pl"	
+either	DT	either	
+neither	DT	neither	
+half	DT	half	
+many	DT	many	
+can	MD	can	
+could	MD	can	pl
+could	MD	could	
+canna	MD	can	neg
+can't	MD	can	neg
+cannot	MD	can	neg
+could've	MD	could have	
+coulda	MD	could have	
+couldn't	MD	could not	
+couldna	MD	could not have	
+couldna	MD	could not have	
+couldn've	MD	could not have	
+dare	MD	dare	
+didn't	MD	did not	VB-VBD RB-RB
+dinna	MD	did not	VB-VBD RB-RB
+don't	MD	do not	VB-VB RB-RB
+doesn't	MD	does not	VB-VBZ RB-RB
+hadn't	MD	had not	VB-VBD RB-RB
+hasn't	MD	has not	VB-VBZ RB-RB
+gotta	MD	have got to	VB-VB VB-VBN INF-TO
+haven't	MD	have not	VB-VB RB-RB
+may	MD	may	
+might	MD	may	
+mayn't	MD	may not	MD-MD RB-RB
+mighta	MD	might have	MD-MD VB-VB
+mightn't	MD	might not	MD-MD RB-RB
+mightna	MD	might not	MD-MD RB-RB
+must	MD	must	
+mustn't	MD	must not	MD-MD RB-RB
+need	MD	need	
+needn't	MD	need not	MD-MD RB-RB
+ought	MD	ought	
+oughtn't	MD	ought not	MD-MD RB-RB
+ought'a	MD	ought to	MD-MD INF-TO
+oughta	MD	ought to	MD-MD INF-TO
+should	MD	shall	
+shall	MD	shall	
+shan't	MD	shall not	MD-MD RB-RB
+shoulda	MD	should have	MD-MD VB-VB
+shouldn't	MD	should not	MD-MD RB-RB
+shouldna	MD	should not have	MD-MD RB-RB VB-VB
+shouldn't've	MD	should not have	MD-MD RB-RB VB-VB
+will	MD	will	
+would	MD	will	
+won't	MD	will not	MD-MD RB-RB
+woulda	MD	would have	MD-MD VB-VB
+wouldn't	MD	would not	MD-MD RB-RB
+wouldna	MD	would not have	MD-MD RB-RB VB-VB
+wouldn't've	MD	would not have	MD-MD RB-RB VB-VB
+all	DT	all	PDT
+such	DT	such	PDT
+half	DT	half	PDT
+both	DT	both	PDT
+quite	DT	quite	PDT
+many	DT	many	PDT
+opposite	DT	opposite	PDT
+nary	DT	nary	PDT
+his	POS-PRP$	his	
+my	POS-PRP$	my	
+her	POS-PRP$	her	
+their	POS-PRP$	their	
+your	POS-PRP$	your	
+our	POS-PRP$	our	
+its	POS-PRP$	its	
+dem	PR-PRP	dem	
+he	PR-PRP	he	
+her	PR-PRP	her	
+hers	PR-PRP	hers	
+herself	PR-PRP	herself	
+him	PR-PRP	him	
+himself	PR-PRP	himself	
+his	PR-PRP	his	
+I	PR-PRP	I	
+it	PR-PRP	it	
+itself	PR-PRP	itself	
+me	PR-PRP	me	
+meself	PR-PRP	meself	
+mine	PR-PRP	mine	
+myself	PR-PRP	myself	
+one	PR-PRP	one	
+oneself	PR-PRP	oneself	
+ours	PR-PRP	ours	
+ourselves	PR-PRP	ourselves	
+she	PR-PRP	she	
+theirs	PR-PRP	theirs	
+them	PR-PRP	them	
+themselves	PR-PRP	themselves	
+they	PR-PRP	they	
+thyself	PR-PRP	thyself	
+us	PR-PRP	us	
+we	PR-PRP	we	
+you	PR-PRP	you	
+yours	PR-PRP	yours	
+yourself	PR-PRP	yourself	
+out	RP-RP	out	
+up	RP-RP	up	
+down	RP-RP	down	
+off	RP-RP	off	
+back	RP-RP	back	
+over	RP-RP	over	
+away	RP-RP	away	
+upon	RP-RP	upon	
+aside	RP-RP	aside	
+along	RP-RP	along	
+around	RP-RP	around	
+unto	RP-RP	unto	
+in	RP-RP	in	
+on	RP-RP	on	
+across	RP-RP	across	
+through	RP-RP	through	
+vnto	RP-RP	vnto	
+thro	RP-RP	thro	
+apart	RP-RP	apart	
+whole	RP-RP	whole	
+about	RP-RP	about	
+behind	RP-RP	behind	
+*	SYM-SYM	*	
+=	SYM-SYM	=	
+&	SYM-SYM	&	
+to	IN	to	
+to	INF-TO	to	
+er	UH-UH	er	
+ah	UH-UH	ah	
+oh	UH-UH	oh	
+hee	UH-UH	hee	
+alas	UH-UH	alas	
+amen	UH-UH	amen	
+uh	UH-UH	uh	
+hey	UH-UH	hey	
+yes	UH-UH	yes	
+quack	UH-UH	quack	
+please	UH-UH	please	
+goodbye	UH-UH	goodbye	
+no	UH-UH	no	
+boy	UH-UH	boy	
+say	UH-UH	say	
+well	UH-UH	well	
+welcome	UH-UH	welcome	
+man	UH-UH	man	
+good-bye	UH-UH	good-bye	
+hell	UH-UH	hell	
+aw	UH-UH	aw	
+hello	UH-UH	hello	
+damn	UH-UH	damn	
+indeed	UH-UH	indeed	
+congratulations	UH-UH	Congratulations	
+shucks	UH-UH	shuck	
+wow	UH-UH	wow	
+ahs	UH-UH	ahs	
+aw	UH-UH	aw	
+that	DT-WDT	that	
+which	DT-WDT	which	
+whatever	DT-WDT	whatever	
+what	DT-WDT	what	
+whose	POS-WP$	whose	
+who	PR-WP	who	
+what	PR-WP	what	
+whom	PR-WP	whom	
+whoever	PR-WP	whoever	
+when	RB-WRB	when	
+where	RB-WRB	where	
+how	RB-WRB	how	
+why	RB-WRB	why	
+whenever	RB-WRB	whenever	
+whereabout	RB-WRB	whereabout	
+whereat	RB-WRB	whereat	
+wherever	RB-WRB	wherever	
+wherein	RB-WRB	wherein	
+whereby	RB-WRB	whereby	
+whereupon	RB-WRB	whereupon	

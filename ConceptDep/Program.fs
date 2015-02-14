@@ -4,8 +4,8 @@
 let main argv = 
     //printfn "%A" argv
 
-    MWE.run ()
-    //Lemma.mergeCsv ()
+    //MWE.run ()
+    Lemma.shapeNN ()
 
     Console.ReadLine() |> ignore
     0 // return an integer exit code

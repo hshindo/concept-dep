@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22310.1
+VisualStudioVersion = 14.0.22609.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConceptDep", "ConceptDep\ConceptDep.fsproj", "{6E33CC86-BEC3-4615-BEA3-A5C7DC8E7D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptDep.Visualize", "ConceptDep.Visualize\ConceptDep.Visualize.csproj", "{A07146A9-5CC1-4F8E-A56F-660D31AEE06B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6E33CC86-BEC3-4615-BEA3-A5C7DC8E7D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E33CC86-BEC3-4615-BEA3-A5C7DC8E7D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E33CC86-BEC3-4615-BEA3-A5C7DC8E7D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07146A9-5CC1-4F8E-A56F-660D31AEE06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07146A9-5CC1-4F8E-A56F-660D31AEE06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07146A9-5CC1-4F8E-A56F-660D31AEE06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07146A9-5CC1-4F8E-A56F-660D31AEE06B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
